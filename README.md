@@ -13,7 +13,7 @@ The repository includes the following notebooks:
 2. [Customer Segmentation](notebooks/Customer_Segmentation.ipynb): Using Principal Component Analysis and K-Means Clustering to group similar customers.
 3. [Association Rule Mining](notebooks/Association_Rule_Mining.ipynb): Leveraging the Apriori algorithm to uncover product and customer-related associations.
 
-Additionally, this project tries to answer the ffollowing questions:
+Additionally, this project tries to answer the following questions:
 
 - Q 1: Which Grocery Items Are Popular?
 - Q 2: Which Groups of Customers Are Similar?
