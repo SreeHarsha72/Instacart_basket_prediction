@@ -7,8 +7,6 @@ This repository contains a collection of Jupyter Notebooks developed to address 
 
 The repository includes the following notebooks:
 
-
-
 1. [Data Exploration](notebooks/DataPreprocessing.ipynb): Initial analysis and understanding of the raw datasets.
 2. [Customer Segmentation](notebooks/Customer_Segmentation.ipynb): Using Principal Component Analysis and K-Means Clustering to group similar customers.
 3. [Association Rule Mining](notebooks/Association_Rule_Mining.ipynb): Leveraging the Apriori algorithm to uncover product and customer-related associations.
